@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
+import { ImportedCommonModule } from 'imported-module/imported-common.module';
 
 const routes: Routes = [];
 
