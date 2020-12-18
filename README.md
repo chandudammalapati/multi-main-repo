@@ -1,3 +1,27 @@
+# steps to add submodule
+git submodule add https://github.com/chandudammalapati/second-imported-module.git
+
+to get latest from submodule:
+
+git submodule update --remote
+
+    git add .
+
+    git commit -m "commit message says that you fetched all submodule changes"
+
+    git push
+
+or else to go to individual path
+git pull
+ go to main submodule path 
+
+    git add .
+
+    git commit -m "commit message says that you fetched particular submodule changes"
+
+    git push
+
+
 # MultiMainRepo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
