@@ -23,7 +23,8 @@ git submodule update --remote
 
 or else to go to individual path
 git pull
- go to main submodule path 
+ 
+    go to main submodule path 
 
     git add .
 
