@@ -37,10 +37,10 @@ git pull
 Now, all the -b does is add one line in your .gitmodules file. So following the same example, it would look like this:
   
   
-  [submodule "second-imported-module"]
-	path = second-imported-module
-	url = https://github.com/chandudammalapati/second-imported-module.git
-   branch = dev
+    [submodule "second-imported-module"]
+    path = second-imported-module
+    url = https://github.com/chandudammalapati/second-imported-module.git
+    branch = dev
 
 
 # MultiMainRepo
