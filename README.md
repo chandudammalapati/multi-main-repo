@@ -13,7 +13,7 @@ If above step is missed do the below steps: goto main folder path
     git submodule update
 
 # steps to add submodule
-git submodule add https://github.com/chandudammalapati/second-imported-module.git
+    git submodule add https://github.com/chandudammalapati/second-imported-module.git
 
 # To get latest code from submodule:
 
