@@ -13,7 +13,7 @@ git submodule add https://github.com/chandudammalapati/second-imported-module.gi
 
 # To get latest code from submodule:
 
-git submodule update --remote
+    git submodule update --remote
 
     git add .
 
