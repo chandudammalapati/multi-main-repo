@@ -1,6 +1,6 @@
 [submodule "imported-module"]
 	path = imported-module
-	url = ./imported-module
+	url = https://github.com/chandudammalapati/imported-module.git
 [submodule "second-imported-module"]
 	path = second-imported-module
 	url = https://github.com/chandudammalapati/second-imported-module.git
