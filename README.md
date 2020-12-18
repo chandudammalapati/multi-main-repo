@@ -3,6 +3,7 @@
 git clone --recurse-submodules https://github.com/chandudammalapati/dummy-multi-main-repo.git
 
 If above step is missed do the below steps: goto main folder path
+    
     git submodule init
     
     git submodule update
@@ -34,7 +35,9 @@ git pull
 # to get a particular branch reference like below:
 
 Now, all the -b does is add one line in your .gitmodules file. So following the same example, it would look like this:
-[submodule "second-imported-module"]
+  
+  
+  [submodule "second-imported-module"]
 	path = second-imported-module
 	url = https://github.com/chandudammalapati/second-imported-module.git
    branch = dev
